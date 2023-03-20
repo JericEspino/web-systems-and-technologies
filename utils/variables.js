@@ -880,8 +880,8 @@ const IT_3101 = [
     name: "Espino, John Jeric Z.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://JericEspino.github.io/john-jeric-espino",
+        code: "https://github.com/JericEspino/john-jeric-espino",
       },
     },
   },
